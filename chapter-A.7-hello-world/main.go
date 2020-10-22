@@ -9,11 +9,6 @@ func main() {
     fmt.Println("selamat datang para pembelajar1")
     fmt.Println("selamat datang para pembelajar1")
     fmt.Println("selamat datang para pembelajar1")
-    fmt.Println("selamat datang para pembelajar1")
-    fmt.Println("selamat datang para pembelajar1")
-    fmt.Println("selamat datang para pembelajar1")
-    fmt.Println("selamat datang para pembelajar1")
-    fmt.Println("selamat datang para pembelajar1")
-    fmt.Println("selamat datang para pembelajar2")
+    fmt.Println("darwanto st")
   
 }
